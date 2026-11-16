@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Gym Management System using PHP & MySQL<br><br>👯 I’m looking to collaborate on<br><br>Web development projects and beginner-friendly open source<br><br>🤝 I’m looking for help with<br><br>Advanced PHP, backend development, and database optimization<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms<br>Java and Web Development<br><br>💬 Ask me about<br><br>C/C++ basics, PHP projects, and Data Structures<br><br>⚡ Fun fact<br><br>I enjoy coding and solving real-world problems through projects
+🔭 I’m currently working on<br><br>Campus Navigator <br><br>👯 I’m looking to collaborate on<br><br>Web development projects and beginner-friendly open source<br><br>🤝 I’m looking for help with<br><br>Advanced PHP, backend development, and database optimization<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms<br>Java and Web Development<br><br>💬 Ask me about<br><br>C/C++ basics, PHP projects, and Data Structures<br><br>⚡ Fun fact<br><br>I enjoy coding and solving real-world problems through projects
 
 
 ## 🌐 Socials:
